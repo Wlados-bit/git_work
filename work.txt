@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Работа не волк, работа - Work.
 I work et the Scientific praktikal materials Research center of National academy of Sciences of Belarus.
 
@@ -5,3 +6,9 @@ I work et the Scientific praktikal materials Research center of National academy
 +++++++++++++++++++++++++++++
 _____________________________
 -----------------------------
+=======
+Р Р°Р±РѕС‚Р° РЅРµ РІРѕР»Рє, СЂР°Р±РѕС‚Р° - Work.
+I work et the Scientific praktikal materials Research center of National academy of Sciences of Belarus.
+
+Hello Git-Hub)))
+>>>>>>> e7d033323094a07441ba7439cc66e44809570c2b
