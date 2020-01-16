@@ -7,7 +7,10 @@ I work et the Scientific praktikal materials Research center of National academy
 _____________________________
 -----------------------------
 =======//////////////////////
-Р Р°Р±РѕС‚Р° РЅРµ РІРѕР»Рє, СЂР°Р±РѕС‚Р° - Work.
+
+Nekie izmenenya #1
+
+ - Work.
 I work et the Scientific praktikal materials Research center of National academy of Sciences of Belarus.
 
 Hello Git-Hub)))
