@@ -1,11 +1,10 @@
 ﻿Работа не волк, работа - Work.
 I work et the Scientific praktikal materials Research center of National academy of Sciences of Belarus.
 
+
 Nekie izmenenya #1
 + Nekie izmenenya #2
  - Work.
 I work et the Scientific praktikal materials Research center of National academy of Sciences of Belarus.
 
 Hello Git-Hub)))
-
-Ya rot ebal, chego je bolee...
